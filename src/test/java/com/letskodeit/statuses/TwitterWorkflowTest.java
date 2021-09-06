@@ -42,7 +42,7 @@ public class TwitterWorkflowTest {
 		System.out.println("The response.path: " + tweetId);
 	}
 	
-//	Added by Srinivas Simakurthi
+//Added by Fishy
 	
 	@Test(dependsOnMethods={"postTweet"})
 	public void readTweet() {
