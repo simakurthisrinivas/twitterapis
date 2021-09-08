@@ -4,4 +4,8 @@ Testing sima
 Testing msingh
 Release branch code subtraction
 hello test
+<<<<<<< HEAD
 hello simakurthichanging
+=======
+hello mohitchanging
+>>>>>>> msingh
