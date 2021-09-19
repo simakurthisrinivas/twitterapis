@@ -1,0 +1,18 @@
+commit 46250a06ca1c7fcfac3dd09e3929df355762efff
+Merge: 61b4b30 6aadb63
+Author: simakurthisrinivas <37972654+simakurthisrinivas@users.noreply.github.com>
+Date:   Wed Sep 8 18:00:05 2021 +0530
+
+    Resolved conflicts
+
+diff --cc Testfile
+index 59f1415,aafc2b2..e8ec4ac
+--- a/Testfile
++++ b/Testfile
+@@@ -1,1 -1,1 +1,5 @@@
+++
+ +This is test file only for simakurthi
+++
++ This is test file only for Mohit
+++
+This is test file only
